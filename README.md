@@ -1,2 +1,2 @@
-# Ubi
-All of the ubisoft assignments
+# Assignments
+All of the assignments
